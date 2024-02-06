@@ -1,0 +1,6 @@
+import org.jboss.netty.handler.ssl.util.FingerprintTrustManagerFactory;
+public class FunctionUse5159 {
+public void funcUse() {
+FingerprintTrustManagerFactory fingerprinttrustmanagerfactory = new FingerprintTrustManagerFactory();
+}
+}
